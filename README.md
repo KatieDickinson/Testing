@@ -1,2 +1,3 @@
 # Testing
-training on GitHub
+Hi World!
+I'm learning GitHub!

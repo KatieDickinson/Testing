@@ -1,3 +1,3 @@
 # Testing
 Hi World!
-I'm learning GitHub!
+I'm learning GitHub.
